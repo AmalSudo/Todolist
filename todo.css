@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(121, 121, 121);
+}
+.text1{
+    font-size: 40px;
+}
+.text2{
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.items{
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0cm;
+    padding: 5px;
+    padding-left: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(38, 40, 55);
+    color:rgb(209, 203, 212);
+    margin-bottom: 60px;
+}
+
+h1{
+    color:rgb(227, 118, 212);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn0{
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(121, 121, 121);
+    border: 0cm;
+    color:rgb(225, 67, 225);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5px;
+}
+
+
+.text{
+    width:fit-content;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0cm;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(38, 40, 55);
+    color:azure;
+}
+
+
+.edit{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(38, 40, 55);
+    border: 0cm;
+    color:rgb(191, 89, 220);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+.actions{
+    margin-left: 33%;
+}
+
+
+
+.delete{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(38, 40, 55);
+    border: 0cm;
+    color:rgb(222, 94, 222);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+.edit:hover{
+    color:rgb(38, 40, 55);
+    background-color:rgb(191, 89, 220) ;
+}
+
+.btn0:hover{
+    color:rgb(38, 40, 55);
+    background-color: rgb(219, 137, 219); 
+}
+.delete:hover{
+    color:rgb(38, 40, 55);
+    background-color: rgb(219, 137, 219); 
+}
+
+.task{
+    background-color: rgb(38, 40, 55);
+    width: 50%;
+    border-radius: 10px;
+    border: 0cm;
+    padding: 5px;
+    align-items: baseline;
+    display: flex;
+    margin-bottom: 20px;
+}
+
